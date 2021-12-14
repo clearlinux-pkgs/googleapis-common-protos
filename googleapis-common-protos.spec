@@ -4,7 +4,7 @@
 #
 Name     : googleapis-common-protos
 Version  : 1.54.0
-Release  : 17
+Release  : 18
 URL      : https://files.pythonhosted.org/packages/97/94/e55c0151d6665a5ff7305fef38c7e8f1defa4679f884aaf9812fb42a1109/googleapis-common-protos-1.54.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/97/94/e55c0151d6665a5ff7305fef38c7e8f1defa4679f884aaf9812fb42a1109/googleapis-common-protos-1.54.0.tar.gz
 Summary  : Common protobufs used in Google APIs
